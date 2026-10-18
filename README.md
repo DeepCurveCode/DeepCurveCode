@@ -2,6 +2,8 @@
 
 **Co-founder of [NexaEthos](https://www.nexaethos.com) · Co-Lead, Strategy & Product · AI product and agent design**
 
+[LinkedIn](https://www.linkedin.com/in/valentinapusceddu/) · [nexaethos.com](https://www.nexaethos.com)
+
 I build **[Nexa Agora](https://www.nexaethos.com)**, the governed AI workplace: one workspace where people and AI agents run the company together, under the rules the company sets. I lead the product: what the agents do, how they work together, how they hand work back to people, and how every screen stays readable to someone who is not an engineer.
 
 > *"AI doesn't need to be perfect. It needs to learn how to stay."*
@@ -55,4 +57,6 @@ Nexa Agora gives a company a team of AI colleagues, each with a trade, a role an
 
 ## Let's talk
 
-If your work touches AI agents, multi-agent orchestration, governed AI at work or relational AI, write to me or visit [nexaethos.com](https://www.nexaethos.com).
+If your work touches AI agents, multi-agent orchestration, governed AI at work or relational AI, let's connect.
+
+[LinkedIn](https://www.linkedin.com/in/valentinapusceddu/) · [nexaethos.com](https://www.nexaethos.com)
