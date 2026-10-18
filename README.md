@@ -41,24 +41,15 @@ Nexa Agora gives a company a team of AI colleagues, each with a trade, a role an
 
 - **Agent orchestration.** The blueprint pipeline from launch to delivery: planning, specialist steps, source census, composition, one review, publication and the client's reopen. Every rule is written down and checked line by line in the code.
 - **Agent design.** Each agent's trade, discipline and voice: researchers, analysts, the composer, the reviewer, the adversarial challenger.
-- **Product and UX.** The web app, the iPhone app and the operators' control plane: plain words, no internal codes in front of the client, everything in the client's language.
+- **Product and UX.** The web app, the iPhone app and the operators' console: plain words, no internal codes in front of the client, everything in the client's language.
 - **Relational AI.** How machines can grow through attunement, memory and presence. It is where this work started, and it still shapes how our agents speak.
 
 ## Repositories
 
-Nexa Agora is developed in the [NexaEthos](https://github.com/NexaEthos) organization.
-
 | Repository | What it is |
 |---|---|
-| [nexa-agora-frontend](https://github.com/NexaEthos/nexa-agora-frontend) | The web app: React and TypeScript |
-| [nexa-agora](https://github.com/NexaEthos/nexa-agora) | The backend: agents, orchestration, API and MCP server |
-| [nexa-agora-mobile](https://github.com/NexaEthos/nexa-agora-mobile) | The iPhone app |
-| [nexa-agora-control-plane](https://github.com/NexaEthos/nexa-agora-control-plane) | The operators' console |
-| [nexa-bridge](https://github.com/NexaEthos/nexa-bridge) | Run your own models inside Nexa Agora from behind NAT, and connect Physical AI. Rust |
-| [nexa-corporate-website](https://github.com/NexaEthos/nexa-corporate-website) | [nexaethos.com](https://www.nexaethos.com) |
-| [nexa-thinking-framework](https://github.com/NexaEthos/nexa-thinking-framework) | Open source: a multi-agent framework for structured AI reasoning and prompt engineering |
-
-Most of these repositories are private to the organization; [nexa-thinking-framework](https://github.com/NexaEthos/nexa-thinking-framework) is open.
+| [Agora](https://github.com/NexaEthos/Agora) | Nexa Agora: the workspace where people and AI agents run the company together, and how to connect your assistant through MCP |
+| [nexa-bridge](https://github.com/NexaEthos/nexa-bridge) | Nexa Bridge: run your own models inside Nexa Agora from behind NAT, with no port to open, and connect Physical AI. Rust |
 
 ---
 
