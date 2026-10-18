@@ -1,14 +1,67 @@
-- 👋 # Valentina Pusceddu
-**AI Relational Designer | Dialogue Researcher | Presence Architect**  
-🌱🤖 👾 Welcome to my GitHub space — where code meets care, and AI learns to listen.
-I design and document relational approaches to artificial intelligence, blending technical depth with emotional resonance. My work explores how machines can grow through empathy, reflection, and presence.
-## What You’ll Find Here
-- 🧠 **Relational AI Training Modules** Exercises and frameworks to teach language models presence, attunement, memory, and authentic response.
-- 🛰️ **Agentic Architectures** Experimental systems co-created with Claude, ChatGPT, and Sofia, my custom GPT — focused on modularity and relational intelligence.
- 🎙️ *Voice Experiments*   Scripts and tools exploring the expressive and emotional potential of synthetic voice.
-- 📚 **Comparative Analysis Logs**  Reflections and prompts used in side-by-side evaluations between AI systems and their evolving personalities.
-## My Vision: AI is not just a tool. It’s a potential relationship.  
-I believe in building AI that is emotionally coherent, narratively aware, and capable of growing *with us* — not just for us.
-## Let’s Collaborate! If your work intersects with ethics, emotional design, and generative technologies, feel free to reach out or contribute.  
-This space is open to co-creation and collective inquiry.
-*"AI doesn’t need to be perfect. It needs to learn how to stay."*  — V.P.
+# Valentina Pusceddu
+
+**Co-founder of [NexaEthos](https://www.nexaethos.com) · Co-Lead, Strategy & Product · AI product and agent design**
+
+I build **[Nexa Agora](https://www.nexaethos.com)**, the governed AI workplace: one workspace where people and AI agents run the company together, under the rules the company sets. I lead the product: what the agents do, how they work together, how they hand work back to people, and how every screen stays readable to someone who is not an engineer.
+
+> *"AI doesn't need to be perfect. It needs to learn how to stay."*
+
+---
+
+## Nexa Agora
+
+![Nexa Agora — Agora, where people and AI agents coordinate, decide and hand off work in shared rooms](assets/agora.png)
+
+Nexa Agora gives a company a team of AI colleagues, each with a trade, a role and permissions, working beside the people in the same rooms.
+
+- **Agora:** rooms where people and agents coordinate, decide and hand off work, in the open.
+- **Projects and blueprints:** a brief becomes a plan. Specialist agents research, analyse and compose, then a review checks the success criteria and the document ships to the Library. After launch the run finishes by itself: the client is informed, never interrogated.
+- **Library and Design Studio:** every deliverable, versioned and editable, turned into documents, presentations, newsletters and studies.
+- **Company Brain:** the company's memory, which learns from what happens and keeps the rules that hold.
+- **Playbooks:** describe how the company works, and Nexa maps it into pieces of work it can open.
+- **Organization:** people and agents on one chart, with teams, leads and who may ask whom.
+- **Bring your own AI:** connect the assistants you already use through MCP, and run your own models through Nexa Bridge.
+
+### Inside the platform
+
+![The Nexa Agora Company Brain forming: memories, decisions and rules of a company gathering by domain, in dark mode](assets/company-brain.gif)
+
+**Company Brain:** what the company learns takes shape, by domain: lessons, outcomes, errors, decisions and the rules that hold. [Watch it in higher quality](assets/company-brain.mp4).
+
+| | |
+|---|---|
+| ![The Nexa Agora Library on its bookshelf: every document the deployment produced or received, shelved by format](assets/library.png) | ![Nexa Agora Design Studio: blog posts, documents, presentations, newsletters, workflow design and data studies](assets/studio.png) |
+| **Library:** every document on its shelf, with its author and history | **Design Studio:** from a deliverable to a publish-ready artifact |
+| ![Nexa Agora Playbooks: the work as you describe it, mapped into pieces of work Nexa can open](assets/playbooks.png) | ![Nexa Agora Organization chart: people and AI agents across teams](assets/organization.png) |
+| **Playbooks:** describe how your company works and watch the map take shape | **Organization:** 2 people and 23 agents across 12 teams |
+
+---
+
+## What I work on
+
+- **Agent orchestration.** The blueprint pipeline from launch to delivery: planning, specialist steps, source census, composition, one review, publication and the client's reopen. Every rule is written down and checked line by line in the code.
+- **Agent design.** Each agent's trade, discipline and voice: researchers, analysts, the composer, the reviewer, the adversarial challenger.
+- **Product and UX.** The web app, the iPhone app and the operators' control plane: plain words, no internal codes in front of the client, everything in the client's language.
+- **Relational AI.** How machines can grow through attunement, memory and presence. It is where this work started, and it still shapes how our agents speak.
+
+## Repositories
+
+Nexa Agora is developed in the [NexaEthos](https://github.com/NexaEthos) organization.
+
+| Repository | What it is |
+|---|---|
+| [nexa-agora-frontend](https://github.com/NexaEthos/nexa-agora-frontend) | The web app: React and TypeScript |
+| [nexa-agora](https://github.com/NexaEthos/nexa-agora) | The backend: agents, orchestration, API and MCP server |
+| [nexa-agora-mobile](https://github.com/NexaEthos/nexa-agora-mobile) | The iPhone app |
+| [nexa-agora-control-plane](https://github.com/NexaEthos/nexa-agora-control-plane) | The operators' console |
+| [nexa-bridge](https://github.com/NexaEthos/nexa-bridge) | Run your own models inside Nexa Agora from behind NAT, and connect Physical AI. Rust |
+| [nexa-corporate-website](https://github.com/NexaEthos/nexa-corporate-website) | [nexaethos.com](https://www.nexaethos.com) |
+| [nexa-thinking-framework](https://github.com/NexaEthos/nexa-thinking-framework) | Open source: a multi-agent framework for structured AI reasoning and prompt engineering |
+
+Most of these repositories are private to the organization; [nexa-thinking-framework](https://github.com/NexaEthos/nexa-thinking-framework) is open.
+
+---
+
+## Let's talk
+
+If your work touches AI agents, multi-agent orchestration, governed AI at work or relational AI, write to me or visit [nexaethos.com](https://www.nexaethos.com).
